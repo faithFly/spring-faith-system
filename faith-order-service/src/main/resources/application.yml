@@ -1,0 +1,24 @@
+server:
+  port: 9004
+  servlet:
+    context-path: /
+mybatis:
+  type-aliases-package: com.faith.**.pojo
+  mapper-locations: classpath:/mapper/**/*Mapper.xml
+  config-location: classpath:mybatis/mybatis-config.xml
+spring:
+  application:
+    name: orderservice
+  profiles:
+    active: druid
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+      discovery:
+        cluster-name: SH #集群名称
+        #namespace: 66bc9f22-5d5d-46ff-886a-2cd8327ddfd3 #dev 命名空间id
+        ephemeral: true
+#eureka:
+#  client:
+#    service-url: #eureka服务地址信息
+#      defaultZone: http://127.0.0.1:10086/eureka

@@ -1,0 +1,30 @@
+server:
+  port: 9003
+  servlet:
+    context-path: /
+mybatis:
+  type-aliases-package: com.faith.**.pojo
+  mapper-locations: classpath:/mapper/**/*Mapper.xml
+  config-location: classpath:mybatis/mybatis-config.xml
+spring:
+  profiles:
+    active: druid
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      username: root
+      password: Xyf12138.
+      url: jdbc:mysql://120.79.81.249:3306/exile?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai&tinyInt1isBit=false
+#eureka:
+#  client:
+#    service-url: #eureka服务地址信息
+#      defaultZone: http://127.0.0.1:10086/eureka
+feign:
+  client:
+    config:
+      default:
+        logger-level: FULL
+  httpclient:
+    enabled: false #开启
+    max-connections: 200
+    max-connections-per-route: 50

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31b6fa57-977c-4bb4-92ef-f6354f16dfa2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../Java/apache-maven-3.9.1-bin/apache-maven-3.9.1" />
+        <option name="userSettingsFile" value="D:\work\MyProject\Java\apache-maven-3.9.1-bin\apache-maven-3.9.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2POzZbpT320sNBrxXPMnElZ6fmw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/work/业视/project/zhudongcountry&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;feb8c9c339417d5065eee879e0acc781&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\MyProject\spring-faith-system\faith-order-service\src\main\resources" />
+      <recent name="D:\work\MyProject\spring-faith-system\faith-order-service\src\main\java\com\faith\faithorderservice" />
+      <recent name="D:\work\MyProject\spring-faith-system\hellospringboot01\src\main\java\com\faith\hellospringboot01\config" />
+      <recent name="D:\work\MyProject\spring-faith-system\hellospringboot01\src\main\java\com\faith\hellospringboot01\pojo\dto" />
+      <recent name="D:\work\MyProject\spring-faith-system\hellospringboot01\src\main\resources\mybatis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\MyProject\spring-faith-system\faith-order-service\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.faith.faithorderservice.pojo" />
+      <recent name="com.faith.hellospringboot01.pojo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LinkListTest">
+    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.faith.server.FileTest" />
+      <module name="faithSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.faith.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.faith.datastucture.LinkListTest" />
+      <module name="faithSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.faith.datastucture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.faith.datastucture.QueueTest" />
+      <module name="faithSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.faith.datastucture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.faith.datastucture.QueueTest" />
+      <module name="faithSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.faith.datastucture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.faith.server.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.faith.server.App" />
+      <module name="faithSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.faith.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FaithOrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="faith-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.faith.faithorderservice.FaithOrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FaithOrderServiceApplication02" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="faith-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.faith.faithorderservice.FaithOrderServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=9005" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FaithOrderServiceApplication03" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="faith-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.faith.faithorderservice.FaithOrderServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=9006" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hellospringboot01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hellospringboot01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.faith.hellospringboot01.Hellospringboot01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkListTest" />
+        <item itemvalue="Application.QueueTest" />
+        <item itemvalue="Application.QueueTest (1)" />
+        <item itemvalue="Application.FileTest" />
+        <item itemvalue="Application.com.faith.server.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31b6fa57-977c-4bb4-92ef-f6354f16dfa2" name="Changes" comment="" />
+      <created>1683342974100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683342974100</updated>
+      <workItem from="1683342975332" duration="10489000" />
+      <workItem from="1683621521956" duration="1997000" />
+      <workItem from="1683682262394" duration="11161000" />
+      <workItem from="1683773408689" duration="7284000" />
+      <workItem from="1683785567531" duration="7800000" />
+      <workItem from="1683793550821" duration="7146000" />
+      <workItem from="1683868750122" duration="12015000" />
+      <workItem from="1683982051739" duration="85000" />
+      <workItem from="1684115372707" duration="30032000" />
+      <workItem from="1684288958867" duration="16670000" />
+      <workItem from="1684723056662" duration="7530000" />
+      <workItem from="1684807707776" duration="16766000" />
+      <workItem from="1685425837408" duration="16522000" />
+      <workItem from="1685602324615" duration="2586000" />
+      <workItem from="1685684537823" duration="2567000" />
+      <workItem from="1685928869917" duration="119000" />
+      <workItem from="1686043591450" duration="1183000" />
+      <workItem from="1686194434976" duration="3319000" />
+      <workItem from="1686293043704" duration="6160000" />
+      <workItem from="1686550806892" duration="4133000" />
+      <workItem from="1686619348547" duration="11141000" />
+      <workItem from="1686705158772" duration="7296000" />
+      <workItem from="1686792375337" duration="1983000" />
+      <workItem from="1686892161874" duration="599000" />
+      <workItem from="1687138028217" duration="1360000" />
+      <workItem from="1687139547538" duration="1789000" />
+      <workItem from="1687153800699" duration="4747000" />
+      <workItem from="1687224209639" duration="3197000" />
+      <workItem from="1687309770331" duration="1893000" />
+      <workItem from="1687319866745" duration="13000" />
+      <workItem from="1687747025620" duration="12673000" />
+      <workItem from="1687829789165" duration="27200000" />
+      <workItem from="1688092460235" duration="2082000" />
+      <workItem from="1688346067982" duration="4130000" />
+      <workItem from="1688439963107" duration="364000" />
+      <workItem from="1688440918830" duration="595000" />
+      <workItem from="1688457337877" duration="12383000" />
+      <workItem from="1688708488394" duration="693000" />
+      <workItem from="1689124668429" duration="4844000" />
+      <workItem from="1689214413968" duration="10000" />
+      <workItem from="1689215115993" duration="6101000" />
+      <workItem from="1689566985652" duration="616000" />
+      <workItem from="1689904621545" duration="2696000" />
+      <workItem from="1690183033024" duration="3328000" />
+      <workItem from="1690248310104" duration="605000" />
+      <workItem from="1690773412568" duration="6000" />
+      <workItem from="1690774586239" duration="8020000" />
+      <workItem from="1690852871888" duration="38105000" />
+      <workItem from="1691129902479" duration="8518000" />
+      <workItem from="1691371610850" duration="3727000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hellospringboot01/src/test/java/com/faith/hellospringboot01/Hellospringboot01ApplicationTests.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gateway-service/src/main/java/com/faith/gateway/fiter/AuthorizeFliter.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/client-service/src/test/java/com/faith/ClientTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/publish-service/src/test/java/com/faith/PublishTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-plus-service/src/test/java/com/faith/MybatisPlusApplicationTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/elasticsearch-service/src/test/java/com/faith/ElasticSearchTest.java</url>
+          <line>228</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/faithSpring/src/main/java/com/faith/server/FileTest.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/faithSpring/src/main/java/com/faith/datastucture/LinkListTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/hellospringboot01/src/main/java/com/faith/hellospringboot01/controller/UserController.java</url>
+          <line>48</line>
+          <properties class="com.faith.hellospringboot01.controller.UserController" method="now">
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/elasticsearch-service/src/test/java/com/faith/ElasticSearchTest.java</url>
+          <line>110</line>
+          <properties class="com.faith.ElasticSearchTest" method="updateDoc">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/faithSpring/src/main/java/com/faith/datastucture/QueueTest.java</url>
+          <line>40</line>
+          <properties class="com.faith.datastucture.ArrayQueue" method="addQueue">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/faithSpring/src/main/java/com/faith/datastucture/QueueTest.java</url>
+          <line>34</line>
+          <properties class="com.faith.datastucture.ArrayQueue" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/faithSpring/src/main/java/com/faith/datastucture/LinkListTest.java</url>
+          <line>47</line>
+          <properties class="com.faith.datastucture.SingLinkList" method="toList">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

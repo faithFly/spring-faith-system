@@ -1,0 +1,7 @@
+# Project exclude paths
+/dockerspringbootweb/target/
+/elasticsearch-service/target/
+/faith-design-demo/target/
+/faith-thread-test/target/
+/faithSpring/target/
+/java-excel-demo/target/

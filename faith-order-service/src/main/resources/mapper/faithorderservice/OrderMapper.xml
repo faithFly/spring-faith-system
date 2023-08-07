@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.faith.faithorderservice.dao.OrderMapper">
+    <resultMap id="selectOrder" type="Order">
+        <result property="id" column="id"/>
+        <result property="productName" column="product_name"/>
+        <result property="userId" column="user_id"/>
+        <result property="orderPrice" column="order_price"/>
+    </resultMap>
+    <select id="getOrderList" parameterType="Integer" resultMap="selectOrder">
+        select * from t_order where user_id = #{userId}
+    </select>
+</mapper>

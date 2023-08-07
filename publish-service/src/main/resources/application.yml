@@ -1,0 +1,5 @@
+server:
+  port: 12138
+spring:
+  application:
+    name: publishservice

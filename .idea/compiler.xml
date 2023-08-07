@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="elasticsearch-service" />
+        <module name="hellospringboot01" />
+        <module name="dockerspringbootweb" />
+        <module name="spring-security-service" />
+        <module name="eureka" />
+        <module name="faith-design-demo" />
+        <module name="eureka-service" />
+        <module name="faith-order-service" />
+        <module name="publish-service" />
+        <module name="java-excel-demo" />
+        <module name="faith-thread-test" />
+        <module name="gateway-service" />
+        <module name="faithSpring" />
+        <module name="mybatis-plus-service" />
+        <module name="client-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dockerspringboot" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="faith-design-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="client-service" options="-parameters" />
+      <module name="dockerspringboot" options="-parameters" />
+      <module name="dockerspringbootweb" options="-parameters" />
+      <module name="elasticsearch-service" options="-parameters" />
+      <module name="eureka-service" options="-parameters" />
+      <module name="faith-design-demo" options="-parameters" />
+      <module name="faith-design-test" options="-parameters" />
+      <module name="faith-order-service" options="-parameters" />
+      <module name="faith-thread-test" options="-parameters" />
+      <module name="faithSpring" options="-parameters" />
+      <module name="gateway-service" options="-parameters" />
+      <module name="hellospringboot01" options="-parameters" />
+      <module name="java-excel-demo" options="-parameters" />
+      <module name="mybatis-plus-service" options="-parameters" />
+      <module name="publish-service" options="-parameters" />
+      <module name="spring-security-service" options="-parameters" />
+    </option>
+  </component>
+</project>
