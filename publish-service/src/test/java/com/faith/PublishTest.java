@@ -27,7 +27,7 @@ public class PublishTest {
         factory.setPassword("123456");
         //建立连接
         Connection connection = factory.newConnection();
-        //创建通道
+        //创建通道a
         Channel channel = connection.createChannel();
 
         //创建队列

@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31b6fa57-977c-4bb4-92ef-f6354f16dfa2" name="Changes" comment="" />
+    <list default="true" id="31b6fa57-977c-4bb4-92ef-f6354f16dfa2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/abstractmodel/AbstractApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/abstractmodel/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/adaptmodel/ConsoleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/adaptmodel/RunnableAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/adaptmodel/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/bridging/BossCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/bridging/BridgingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/bridging/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/bridging/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/bridging/HybridEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/bridging/RefinedCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/datastruct/DoubleLinkListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/datastruct/FaithHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/datastruct/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/datastruct/HashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/datastruct/LinkListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-thread-test/src/main/java/com/faith/LiaoThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-thread-test/src/main/java/com/faith/adaptermodel/ConsoleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-thread-test/src/main/java/com/faith/adaptermodel/RunnableAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faith-thread-test/src/main/java/com/faith/adaptermodel/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faithSpring/src/main/java/com/faith/datastucture/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faithSpring/src/main/java/com/faith/datastucture/DoubleLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faithSpring/src/main/java/com/faith/datastucture/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faithSpring/src/main/java/com/faith/datastucture/LinkListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/faithSpring/src/main/java/com/faith/datastucture/LinkListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish-service/src/test/java/com/faith/PublishTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/publish-service/src/test/java/com/faith/PublishTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +42,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,6 +68,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2POzZbpT320sNBrxXPMnElZ6fmw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,9 +81,10 @@
     &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/work/业视/project/zhudongcountry&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/work/MyProject/spring-faith-system/faith-design-demo/src/main/java/com/faith/adaptmodel&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -59,7 +92,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;feb8c9c339417d5065eee879e0acc781&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
@@ -74,11 +107,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\MyProject\spring-faith-system\faith-design-demo\src\main\java\com\faith\adaptmodel" />
       <recent name="D:\work\MyProject\spring-faith-system\faith-order-service\src\main\resources" />
       <recent name="D:\work\MyProject\spring-faith-system\faith-order-service\src\main\java\com\faith\faithorderservice" />
       <recent name="D:\work\MyProject\spring-faith-system\hellospringboot01\src\main\java\com\faith\hellospringboot01\config" />
       <recent name="D:\work\MyProject\spring-faith-system\hellospringboot01\src\main\java\com\faith\hellospringboot01\pojo\dto" />
-      <recent name="D:\work\MyProject\spring-faith-system\hellospringboot01\src\main\resources\mybatis" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\work\MyProject\spring-faith-system\faith-order-service\src\main\resources\mapper" />
@@ -95,13 +128,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkListTest">
-    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.faith.server.FileTest" />
-      <module name="faithSpring" />
+  <component name="RunManager" selected="Application.FaithHashTable">
+    <configuration name="DoubleLinkListTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.faith.datastruct.DoubleLinkListTest" />
+      <module name="faith-design-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.faith.server.*" />
+          <option name="PATTERN" value="com.faith.datastruct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.faith.datastucture.LinkListTest" />
-      <module name="faithSpring" />
+    <configuration name="DoubleLinkListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.faith.datastruct.DoubleLinkListTest" />
+      <module name="faith-design-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.faith.datastucture.*" />
+          <option name="PATTERN" value="com.faith.datastruct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.faith.datastucture.QueueTest" />
-      <module name="faithSpring" />
+    <configuration name="FaithHashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.faith.datastruct.FaithHashTable" />
+      <module name="faith-design-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.faith.datastucture.*" />
+          <option name="PATTERN" value="com.faith.datastruct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.faith.datastucture.QueueTest" />
-      <module name="faithSpring" />
+    <configuration name="HashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.faith.datastruct.HashMapTest" />
+      <module name="faith-design-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.faith.datastucture.*" />
+          <option name="PATTERN" value="com.faith.datastruct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.faith.server.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.faith.server.App" />
-      <module name="faithSpring" />
+    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.faith.datastruct.HashSetTest" />
+      <module name="faith-design-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.faith.server.*" />
+          <option name="PATTERN" value="com.faith.datastruct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkListTest" />
-        <item itemvalue="Application.QueueTest" />
-        <item itemvalue="Application.QueueTest (1)" />
-        <item itemvalue="Application.FileTest" />
-        <item itemvalue="Application.com.faith.server.App" />
+        <item itemvalue="Application.FaithHashTable" />
+        <item itemvalue="Application.HashMapTest" />
+        <item itemvalue="Application.HashSetTest" />
+        <item itemvalue="Application.DoubleLinkListTest" />
+        <item itemvalue="Application.DoubleLinkListTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +301,11 @@
       <workItem from="1690774586239" duration="8020000" />
       <workItem from="1690852871888" duration="38105000" />
       <workItem from="1691129902479" duration="8518000" />
-      <workItem from="1691371610850" duration="3727000" />
+      <workItem from="1691371610850" duration="55606000" />
+      <workItem from="1691631836330" duration="15120000" />
+      <workItem from="1691717712596" duration="6376000" />
+      <workItem from="1691976483784" duration="40610000" />
+      <workItem from="1692235173115" duration="20000000" />
     </task>
     <servers />
   </component>
@@ -314,9 +351,34 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/faithSpring/src/main/java/com/faith/datastucture/LinkListTest.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/faithSpring/src/main/java/com/faith/datastucture/LinkedList.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/faithSpring/src/main/java/com/faith/datastucture/DoubleLinkList.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/faithSpring/src/main/java/com/faith/datastucture/ArrayStack.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/datastruct/LinkListTest.java</url>
+          <line>188</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/datastruct/DoubleLinkListTest.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/faith-design-demo/src/main/java/com/faith/datastruct/FaithHashTable.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/hellospringboot01/src/main/java/com/faith/hellospringboot01/controller/UserController.java</url>
@@ -355,12 +417,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/faithSpring/src/main/java/com/faith/datastucture/LinkListTest.java</url>
-          <line>47</line>
-          <properties class="com.faith.datastucture.SingLinkList" method="toList">
+          <line>83</line>
+          <properties class="com.faith.datastucture.LinkListTest" method="merge">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="15" />
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
